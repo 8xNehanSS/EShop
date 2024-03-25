@@ -1,0 +1,8 @@
+E~001~Phone~34~7000.0~Samsung~12~
+C~23~Shirt~3~5600.0~M~Red~
+C~90~Trouser~6~4000.0~L~Blue~
+E~34~Laptop~6~23000.0~Dell~12~
+E~234~Kettle~5~5000.0~Rex~6~
+C~94~Tshirt~3~2345.0~Green~M~
+E~32~Computer~5~34000.0~Dell~5~
+C~432~Denim~6~2300.0~Blue~S~
